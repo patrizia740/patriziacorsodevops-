@@ -1,2 +1,6 @@
 il mio primo file
 
+scrivo la seconda riga
+
+devo salvare quest'altra riga
+
